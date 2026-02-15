@@ -1,4 +1,4 @@
-# test_parking_system.py
+test_parking_system
 
 import unittest
 from parking_system import ParkingSystem, WeeklyPass, MonthlyPass, SingleEntryPass
@@ -34,3 +34,4 @@ class TestParkingSystem(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
